@@ -1,3 +1,4 @@
 build/
-TestBugProcSelfExe.iml
+*.iml
 .idea/
+local.properties
